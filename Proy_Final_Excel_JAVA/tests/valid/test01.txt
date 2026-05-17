@@ -1,0 +1,9 @@
+# test01.txt — Entradas válidas: funciones básicas y referencias a celdas
+# Cada línea es una expresión independiente.
+
+SUMA(A1:B5)
+SI(A1<>10, SUMA(B1:B5), 0)
+POTENCIA(A1, 2)
+Y(A1>0, B1<10)
+O(A1=1, B1=2)
+NO(A1>5)

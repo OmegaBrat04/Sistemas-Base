@@ -1,0 +1,5 @@
+# errores02.txt — Entradas con símbolos desconocidos adicionales
+# Cada línea es una expresión independiente.
+
+SUMA(A1 # B5)
+$$invalido

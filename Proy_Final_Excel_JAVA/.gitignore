@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ANTLR4 generados (se regeneran con compile_grammar.ps1)
+grammar/generated/*.py
+grammar/generated/*.interp
+grammar/generated/*.tokens
+!grammar/generated/__init__.py
+
+# Imágenes temporales de PDF
+page_*.png
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

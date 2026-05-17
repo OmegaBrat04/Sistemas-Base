@@ -1,0 +1,8 @@
+# test02.txt — Entradas válidas: operadores, literales y casos avanzados
+# Cada línea es una expresión independiente.
+
+PROMEDIO($A$1:$C$3)
+SI(A1>=10, MAX(B1:B5), MIN(C1:C5))
+3.14 + 10
+CONCATENAR("Hola", " ", "Mundo")
+SUMA(A1;B1;C1)

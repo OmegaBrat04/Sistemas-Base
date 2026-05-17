@@ -1,0 +1,6 @@
+# errores01.txt — Entradas con errores léxicos esperados
+# Cada línea es una expresión independiente.
+# El lexer debe detectar y reportar los errores sin detenerse.
+
+@variable
+SUMA(123abc)
